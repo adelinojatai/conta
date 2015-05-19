@@ -8,7 +8,8 @@ public class OlaMundoController {
 
 	@RequestMapping("/olaMundoSpring")
 	public String executa() {
-		System.out.println("Primeira execução realizada");
+		System.out.println("Primeira execuï¿½ï¿½o realizada");
+		System.out.println("Primeira execuï¿½ï¿½o realizada");
 		return "ola";
 	}
 }
